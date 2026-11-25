@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\lpnu\\ap\\lr\\pr9.1\\pr9.1\\var.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\lpnu\\ap\\lr\\pr9.1\\pr9.1\\var.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

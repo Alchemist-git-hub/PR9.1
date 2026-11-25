@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lpnu\\AP\\LR\\PR9.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|solutionrelative:PR9.1\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|solutionrelative:PR9.1\\sum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\PR9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|solutionrelative:PR9.1\\PR9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\var.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|solutionrelative:PR9.1\\var.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|solutionrelative:PR9.1\\dod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|solutionrelative:PR9.1\\var.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2589031C-A748-4155-9199-A93FC9C1CC80}|PR9.1\\PR9.1.vcxproj|solutionrelative:PR9.1\\dod.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2194C8-9360-69BB-BF11-A3B1525BFB17}|testPR9.1\\testPR9.1.vcxproj|C:\\lpnu\\AP\\LR\\PR9.1\\testPR9.1\\testPR9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B2194C8-9360-69BB-BF11-A3B1525BFB17}|testPR9.1\\testPR9.1.vcxproj|solutionrelative:testPR9.1\\testPR9.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "testPR9.1.cpp",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR9.1\\testPR9.1\\testPR9.1.cpp",
+              "RelativeDocumentMoniker": "testPR9.1\\testPR9.1.cpp",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR9.1\\testPR9.1\\testPR9.1.cpp",
+              "RelativeToolTip": "testPR9.1\\testPR9.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-24T23:39:23.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "var.h",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\var.h",
+              "RelativeDocumentMoniker": "PR9.1\\var.h",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\var.h",
+              "RelativeToolTip": "PR9.1\\var.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-24T23:28:40.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "var.cpp",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\var.cpp",
+              "RelativeDocumentMoniker": "PR9.1\\var.cpp",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\var.cpp",
+              "RelativeToolTip": "PR9.1\\var.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-24T23:28:52.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sum.h",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\sum.h",
+              "RelativeDocumentMoniker": "PR9.1\\sum.h",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\sum.h",
+              "RelativeToolTip": "PR9.1\\sum.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-24T23:30:07.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sum.cpp",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\sum.cpp",
+              "RelativeDocumentMoniker": "PR9.1\\sum.cpp",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\sum.cpp",
+              "RelativeToolTip": "PR9.1\\sum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-24T23:29:23.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dod.h",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\dod.h",
+              "RelativeDocumentMoniker": "PR9.1\\dod.h",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\dod.h",
+              "RelativeToolTip": "PR9.1\\dod.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-24T23:29:53.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dod.cpp",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\dod.cpp",
+              "RelativeDocumentMoniker": "PR9.1\\dod.cpp",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\dod.cpp",
+              "RelativeToolTip": "PR9.1\\dod.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-24T23:29:15.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PR9.1.cpp",
+              "DocumentMoniker": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\PR9.1.cpp",
+              "RelativeDocumentMoniker": "PR9.1\\PR9.1.cpp",
+              "ToolTip": "C:\\lpnu\\AP\\LR\\PR9.1\\PR9.1\\PR9.1.cpp",
+              "RelativeToolTip": "PR9.1\\PR9.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-24T23:28:24.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
